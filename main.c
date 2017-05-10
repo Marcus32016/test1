@@ -1,5 +1,5 @@
 
 int main(){
- printf("123");
+ printf("123MMM");
  return 0;
 }
